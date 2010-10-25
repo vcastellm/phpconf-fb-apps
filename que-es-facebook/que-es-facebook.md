@@ -10,11 +10,11 @@
 <p>Aunque <strong>no hay filtro para publicar aplicaciones</strong> pueden banear vuestra aplicación si detectan un mal uso o alguien la reporta.</p>
 
 !SLIDE
-#Al loro a los cambios, porque <strong>pueden afectar</strong> a vuestras aplicaciones.#
+#Estad al loro a los cambios y a cómo <strong>pueden afectar</strong> a vuestras aplicaciones.#
 
 !SLIDE
-#<strong>No todo vale</strong>. No podréis guardar cualquier dato de cualquier usuario. No hay datos sensibles.#
-<p>No se pueden recoger de forma automática el mail, el teléfono ni otros datos de ese tipo. Si hacen falta (sorteos, concursos) hay que pedirlos directamente desde la aplicación.</p>
+#<strong>No todo vale</strong>. No podréis guardar cualquier dato de cualquier usuario.#
+<p>No se pueden recoger de forma automática el mail, el teléfono ni otros datos de tipo sensible. Si hacen falta (sorteos, concursos) hay que pedirlos directamente desde la aplicación.</p>
 
 !SLIDE
 #Intentad no complicaros la vida. <strong>Ser feliz mola más.</strong>#

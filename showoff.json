@@ -3,7 +3,8 @@
     "sections": [ 
         {"section":"intro"},
         {"section":"que-es-facebook"},
-        {"section":"setup"},
+        {"section":"setup-local"},
+        {"section":"setup-fb"},
         {"section":"fin"} 
     ]
 }

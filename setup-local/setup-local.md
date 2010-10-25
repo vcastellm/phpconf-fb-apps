@@ -1,10 +1,3 @@
-!SLIDE
-#Creando una aplicación de Facebook #
-
-!SLIDE center
-
-![](img/crear.jpg)
-
 !SLIDE commandline incremental
 
 ## descargar el código
