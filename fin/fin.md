@@ -1,4 +1,4 @@
-!SLIDE
+!SLIDE transition=fade
 
 # ¡Gracias!
 

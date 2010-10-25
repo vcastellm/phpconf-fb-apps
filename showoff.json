@@ -3,6 +3,7 @@
     "sections": [ 
         {"section":"sobre"},
         {"section":"partes"},
+        {"section":"intro"},
         {"section":"setup"},
         {"section":"fin"} 
     ]
