@@ -1,6 +1,5 @@
-!SLIDE subsection
-
-# creando una aplicación de Facebook #
+!SLIDE
+#Creando una aplicación de Facebook #
 
 !SLIDE center
 
