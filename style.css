@@ -36,6 +36,10 @@ code {
   font-size: 0.65em;
 }
 
+pre code {
+	font-size:.35em;
+}
+
 h1 {
   font-size: 2.4em;
 }
