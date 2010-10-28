@@ -3,7 +3,7 @@
 
 !SLIDE bullets incremental
 #Un momento... ¿qué es una aplicación de Facebook?#
-###Es una aplicación web **completamente normal**. La publicaremos en un servidor y le indicaremos la URL para que pueda recogerla.###
+###Como habéis visto, es una aplicación web **completamente normal**. La publicaremos en un servidor y le indicaremos la URL para que pueda recogerla.###
 
 !SLIDE center
 #Creamos la aplicación#
