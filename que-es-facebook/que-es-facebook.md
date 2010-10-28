@@ -13,11 +13,8 @@
 #Estad al loro a los cambios y a cómo **pueden afectar** a vuestras aplicaciones.#
 
 !SLIDE
-#**No todo vale**. No podréis guardar cualquier dato de cualquier usuario.#
+#**Es un festival de datos**. Pero no podréis guardar datos sensibles del usuario.#
 ###No se pueden recoger de forma automática el mail, el teléfono ni otros datos de tipo sensible. Si hacen falta (sorteos, concursos) hay que pedirlos directamente desde la aplicación.###
 
 !SLIDE
 #Intentad no complicaros la vida. **Ser feliz mola más.**#
-
-!SLIDE
-#...#

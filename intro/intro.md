@@ -1,5 +1,5 @@
 !SLIDE
-#Hola :-)#
+#Hola#
 ###Somos Victor (backend) y Xavi (frontend). Trabajamos juntos desarrollando aplicaciones.###
 ###Entre otras cosas, hacemos aplicaciones de Facebook. Preferimos hacerlas en <font color="#F00">RoR</font>, pero hoy os contaremos cómo hacer una app con CakePHP como base.###
 
@@ -18,22 +18,3 @@
 * Extraerá datos de usuario
 * Tendrá funciones sociales
 * Podrá funcionar en Facebook mobile y mediante Facebook connect
-
-!SLIDE bullets incremental center
-
-##Necesitaréis 6 cosas##
-
-* Servidor LAMP
-* Un cliente Git
-* Una cuenta activa en Facebook
-* Agregar a <strong>Dave Bowman</strong> (buscad <strong>x@season.es</strong>)
-* Ir a <strong>www.facebook.com/developers</strong>
-* Sentido del humor. En serio.
-
-![Dave Bowman](dave.jpeg "Hal...")
-
-!SLIDE
-
-#¿Lo tenéis todo?#
-
-###Mientras hacéis el setup, agregáis a Dave y comprobáis que todo funciona, os daremos un poco la chapa con un par de cosas generales que debéis saber a la hora de desarrollar apps de Facebook.###

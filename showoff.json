@@ -2,8 +2,8 @@
     "name": "Desarrollo de aplicaciones Facebook en PHP", 
     "sections": [ 
         {"section":"intro"},
-        {"section":"que-es-facebook"},
         {"section":"setup-local"},
+        {"section":"que-es-facebook"},
         {"section":"setup-fb"},
         {"section":"mecanica-fb"},
         {"section":"fin"} 

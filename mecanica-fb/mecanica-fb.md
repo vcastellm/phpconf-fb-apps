@@ -1,3 +1,6 @@
+!SLIDE subsection
+#Facebook, por dentro. Autenticación, Rest API, Graph API#
+
 !SLIDE smaller
 #OAuth 2.0#
 
@@ -17,10 +20,6 @@
 
 [http://developers.facebook.com/docs/authentication/](http://developers.facebook.com/docs/authentication/)
 
-!SLIDE
-
-#API de Facebook#
-
 !SLIDE bullets incremental
 
 #Rest API#
@@ -28,10 +27,6 @@
 * Es el sistema tradicional
 * Lo llaman old REST API
 * La documentación está mas escondida
-
-!SLIDE subsection
-
-#Graph API#
 
 !SLIDE bullets incremental
 
