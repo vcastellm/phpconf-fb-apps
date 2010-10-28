@@ -23,7 +23,5 @@
 ##En **www.facebook.com/developer** mediante el botón de la parte superior derecha.##
 
 !SLIDE
-
 #El canvas de Facebook#
-
 ##Ya tenemos nuestra aplicación funcionando, y podemos verla dentro de Facebook accediendo a la dirección que hemos puesto en el <strong>CANVAS URL</strong> de las opciones.##
