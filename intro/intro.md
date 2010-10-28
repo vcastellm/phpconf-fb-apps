@@ -1,22 +1,27 @@
 !SLIDE
 #Hola :-)#
-<p>Somos Victor (backend) y Xavi (frontend). Trabajamos juntos desarrollando aplicaciones.</p>
-<p>Entre otras cosas, hacemos aplicaciones de Facebook. Preferimos hacerlas en <font color="#F00">RoR</font>, pero hoy os contaremos cómo hacer una app con CakePHP como base.</p>
+###Somos Victor (backend) y Xavi (frontend). Trabajamos juntos desarrollando aplicaciones.###
+###Entre otras cosas, hacemos aplicaciones de Facebook. Preferimos hacerlas en <font color="#F00">RoR</font>, pero hoy os contaremos cómo hacer una app con CakePHP como base.###
 
 !SLIDE bullets incremental
+
 #En este taller, veremos#
 
 * Qué es una aplicación de Facebook
 * El Modelo de Autenticación (OAuth 2)
 * Mecánica de la API de Facebook (Graph API, Rest API)
-* Creación de una sencilla aplicación que: 
-    * Extraerá datos de usuario
-    * Tendrá funciones sociales
-    * Podrá funcionar en Facebook mobile y mediante Facebook connect
 
-!SLIDE subsection bullets incremental
+!SLIDE bullets incremental
+ 
+#Creación de una sencilla aplicación que#
 
-#Necesitaréis 5 cosas#
+* Extraerá datos de usuario
+* Tendrá funciones sociales
+* Podrá funcionar en Facebook mobile y mediante Facebook connect
+
+!SLIDE bullets incremental center
+
+##Necesitaréis 6 cosas##
 
 * Servidor LAMP
 * Un cliente Git
@@ -31,4 +36,4 @@
 
 #¿Lo tenéis todo?#
 
-<p>Mientras hacéis el setup, agregáis a Dave y comprobáis que todo funciona, os daremos un poco la chapa con un par de cosas generales que debéis saber a la hora de desarrollar apps de Facebook.</p>
+###Mientras hacéis el setup, agregáis a Dave y comprobáis que todo funciona, os daremos un poco la chapa con un par de cosas generales que debéis saber a la hora de desarrollar apps de Facebook.###
