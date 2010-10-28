@@ -1,9 +1,24 @@
 !SLIDE
 #OAuth 2.0#
 
-<p>TODO: Es un protocolo que, mediante tokens, permite autenticar a los usuarios. Tenim el gràfic però és molt gros. Igual val la pena passar per facebook directament, que està explicadet</p>
+<pre style="font-size:1em">
++--------+                                  +---------------+
+|        |--(C)--- Client Credentials ----->| Authorization |
+|        |                                  |     Server    |
+|        |&lt;-(D)------ Access Token ---------|               |
+|        |                                  +---------------+
+| Client |
+|        |                                  +---------------+
+|        |--(E)------ Access Token -------->|    Resource   |
+|        |                                  |     Server    |
+|        |&lt;-(F)---- Protected Resource -----|               |
++--------+                                  +---------------+
+</pre>
 
-http://developers.facebook.com/docs/authentication/
+Es un protocolo de autenticación
+<p>Mediante tokens, permite autenticar a los usuarios.</p>
+
+[http://developers.facebook.com/docs/authentication/](http://developers.facebook.com/docs/authentication/)
 
 !SLIDE
 #Mecánica de la API de Facebook#
