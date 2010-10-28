@@ -1,28 +1,71 @@
-!SLIDE
+!SLIDE smaller
 #OAuth 2.0#
 
-<pre style="font-size:1em">
-+--------+                                  +---------------+
-|        |--(C)--- Client Credentials ----->| Authorization |
-|        |                                  |     Server    |
-|        |&lt;-(D)------ Access Token ---------|               |
-|        |                                  +---------------+
-| Client |
-|        |                                  +---------------+
-|        |--(E)------ Access Token -------->|    Resource   |
-|        |                                  |     Server    |
-|        |&lt;-(F)---- Protected Resource -----|               |
-+--------+                                  +---------------+
-</pre>
-
-Es un protocolo de autenticación
-<p>Mediante tokens, permite autenticar a los usuarios.</p>
+###Es un protocolo de autenticación###
+###Mediante tokens, permite autenticar a los usuarios.###
+    +--------+                                  +---------------+
+    |        |--(C)--- Client Credentials ----->| Authorization |
+    |        |                                  |     Server    |
+    |        |<-(D)------ Access Token ---------|               |
+    |        |                                  +---------------+
+    | Client |
+    |        |                                  +---------------+
+    |        |--(E)------ Access Token -------->|    Resource   |
+    |        |                                  |     Server    |
+    |        |<-(F)---- Protected Resource -----|               |
+    +--------+                                  +---------------+
 
 [http://developers.facebook.com/docs/authentication/](http://developers.facebook.com/docs/authentication/)
 
 !SLIDE
-#Mecánica de la API de Facebook#
-##Graph API##
-<p>Es un sistema relativamente reciente de comunicación que simplifica mucho el proceso para los desarrolladores. Mediante llamadas a la API obtenemos datos JSON en un formato similar para todas las opciones (usuarios, páginas, eventos, grupos, etc)</p>
-Podemos ver [algunos ejemplos](http://developers.facebook.com/docs/api) de qué datos podemos obtener y en qué formato.
+
+#API de Facebook#
+
+!SLIDE bullets incremental
+
+#Rest API#
+
+* Es el sistema tradicional
+* Lo llaman old REST API
+* La documentación está mas escondida
+
+!SLIDE subsection
+
+#Graph API#
+
+!SLIDE bullets incremental
+
+#Graph API#
+
+* http://graph.facebook.com
+* Es un sistema relativamente reciente de comunicación
+* Mas REST que antes
+* Simplifica mucho el proceso para los desarrolladores. 
+
+!SLIDE
+
+#Graph API#
+
+##Mediante llamadas a la API obtenemos datos JSON en un formato similar para todas las opciones (usuarios, páginas, eventos, grupos, etc)##
+
+!SLIDE small code
+
+#Graph API#
+
+    {
+       "name": "Facebook Platform",
+       "type": "page",
+       "website": "http://developers.facebook.com",
+       "username": "platform",
+       "founded": "May 2007",
+       "company_overview": "Facebook Platform enables anyone to build...",
+       "mission": "To make the web more open and social.",
+       "products": "Facebook Application Programming Interface (API)...",
+       "fan_count": 449921,
+       "id": 19292868552,
+       "category": "Technology"
+    }
+    
+###Podemos ver [algunos ejemplos](http://developers.facebook.com/docs/api) de qué datos podemos obtener y en qué formato.###
+
 
