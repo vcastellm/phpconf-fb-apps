@@ -5,7 +5,7 @@
 * Públicas (no requieren que el usuario esté autenticado en FB)
 * Privadas (requieren autenticación)
 
-!SLIDE center
+!SLIDE center smaller
 #En www.facebook.com/developer#
 ##Creamos una nueva aplicación mediante el botón de la parte superior derecha.##
 ![](img/crear.jpg)

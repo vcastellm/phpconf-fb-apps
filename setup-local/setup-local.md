@@ -12,7 +12,7 @@
     $ git clone git://github.com/victorcoder/ninja_moves.git
 
 !SLIDE
-#Copiarla a la carpeta www#
+#Copiarla a la carpeta donde apunta DocumentRoot#
 
 !SLIDE
 
