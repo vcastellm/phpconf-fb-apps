@@ -1,7 +1,7 @@
 !SLIDE
 #**Facebook es el demonio**. Es impredecible, falla y no hay soporte real.#
 
-!SLIDE
+!SLIDE small
 #Algunas de las funciones básicas pueden tardar más de lo esperado en responder, **causando timeouts** en vuestra aplicación.#
 ###Cuando desarrolléis, intentad optimizar el numero de querys a su app.###
 
