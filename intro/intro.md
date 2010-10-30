@@ -1,7 +1,7 @@
 !SLIDE
 #Hola#
 ###Somos Victor (backend) y Xavi (frontend). Trabajamos juntos desarrollando aplicaciones.###
-###Entre otras cosas, hacemos aplicaciones de Facebook. Preferimos hacerlas en <font color="#F00">RoR</font>, pero hoy os contaremos cómo hacer una app con CakePHP como base.###
+###Entre otras cosas, hacemos aplicaciones de Facebook. Preferimos hacerlas en <font color="#F00">RoR</font>, pero hoy os contaremos cómo hacer una app con PHP como base.###
 
 !SLIDE bullets incremental
 
